@@ -1,3 +1,11 @@
+# _   _ _______     ______    ____                          _            
+# | | | | ____\ \   / / ___|  / ___|___  _ ____   _____ _ __| |_ ___ _ __ 
+# | |_| |  _|  \ \ / / |     | |   / _ \| '_ \ \ / / _ \ '__| __/ _ \ '__|
+# |  _  | |___  \ V /| |___  | |__| (_) | | | \ V /  __/ |  | ||  __/ |   
+# |_| |_|_____|  \_/  \____|  \____\___/|_| |_|\_/ \___|_|   \__\___|_| 
+#Author Kent Hinson
+
+
 #!/bin/bash
 #Script to auto convert media to hevc using ffmpeg
 #All files in passed directory will be processed.
